@@ -1,1 +1,2 @@
 Linea1 archivo2 master
+Linea2 archivo2 master
